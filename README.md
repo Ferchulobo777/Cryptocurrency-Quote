@@ -1,4 +1,4 @@
-#Aplicación Web Conversor de Criptomonedas
+## Aplicación Web Conversor de Criptomonedas
 
 <p align="center">
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1713529119/Aplicacion%20Conversor%20de%20Criptomonedas/zrl5g5wiisd6ncpg8zpi.png" alt="Gastos" width="200"/>
