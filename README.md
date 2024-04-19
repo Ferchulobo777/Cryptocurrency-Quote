@@ -19,7 +19,7 @@ Esta es una aplicación de conversor de criptomonedas desarrollada en React util
 
 ## Capturas de Pantalla
 
-<div style="display: inline-flex; justify-content: center;">
+<div style="display: inline-block;">
   <p>
     <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1713529118/Aplicacion%20Conversor%20de%20Criptomonedas/ujppyc98jacd0gmcdy0p.png" alt="Captura de pantalla" width="400"/>
   </p>
